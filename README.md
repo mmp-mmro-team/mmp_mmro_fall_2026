@@ -32,7 +32,7 @@
 :white_check_mark: **По этому курсу (ММРО) в конце семестра будет экзамен**
 
 Общая оценка по нему выставляется по следующей формуле:
-![](https://github.com/mmp-mmro-team/mmp_mmro_fall_2021/blob/main/trash/formula.png)
+![](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/pictures/formula.png)
 , где 
 
 * Check — 5 * <сумма баллов за коллоквиум> / <суммарный макс балл за коллоквиум>
