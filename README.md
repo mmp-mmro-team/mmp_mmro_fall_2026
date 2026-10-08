@@ -58,9 +58,9 @@
 | 3 сентября  | Семинар 1 | Введение в курс. Pandas. Разведочный анализ данных | [Ноутбук с семинара](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar1_pandas.ipynb) | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework1/numpy_pandas_matplotlib_2026.ipynb) |
 | 10 сентября  | Семинар 2 | Метрическая парадигма машинного обучения. KNN. Проблемы метода и практические применения | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_2_KNN_2026.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 17 сентября  | Семинар 3 | Функциональные парадигмы машинного обучения. Линейная регрессия. Градиентный спуск. Sklearn. | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_3/Seminar_3_linreg_konspekt.pdf), [Ноутбук с семинапа](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_3/Seminar_3_linregr_notebook.ipynb) | [ Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework2/homework-practice-02-linregr.ipynb) |
-| 24 сентября | Семинар 4 | Векторное дифференцирование |  |  ¯\\\_(ツ)\_/¯ |
-| 1 октября | Семинар 5 | Логистическая регрессия: оценивание вероятностей и вывод функционала, калибровка вероятностей |  |  ¯\\\_(ツ)\_/¯  |
-| 8 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. |  | ¯\\\_(ツ)\_/¯ |
+| 24 сентября | Семинар 4 | Векторное дифференцирование | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_4_matrix_vec_complex_diff_v1.pdf) |  ¯\\\_(ツ)\_/¯ |
+| 1 октября | Семинар 5 | Логистическая регрессия: оценивание вероятностей и вывод функционала, калибровка вероятностей | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_5_Logreg.pdf) |  ¯\\\_(ツ)\_/¯  |
+| 8 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. |  | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework3/MMRO.pdf)  и [шпора в помощь к дз](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework3/help.pdf)|
 | 15 октября | Семинар 7 | Ядровые обобщения методов, задачи на ядра, аппроксимация ядер |  |  ¯\\\_(ツ)\_/¯ |
 | 22 октября | Семинар 8 | Метод SVM: вывод и применения |  |  ¯\\\_(ツ)\_/¯  |
 | 29 октября | Семинар 9 | Метрики качества классификации, ROC-AUC |  |  ¯\\\_(ツ)\_/¯  |
