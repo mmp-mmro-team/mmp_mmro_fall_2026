@@ -63,7 +63,7 @@
 | 8 октября | Семинар 6 | Задача оптимизации. Теорема Каруша-Куна-Таккера. Решение задач. | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_6_%D0%9A%D0%9A%D0%A2_SVM.pdf) | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework3/MMRO.pdf)  и [шпора в помощь к дз](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework3/help.pdf)|
 | 15 октября | Семинар 7 | Ядровые обобщения методов, задачи на ядра, аппроксимация ядер | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_7_kernel_methods.pdf) |  ¯\\\_(ツ)\_/¯ |
 | 22 октября | Семинар 8 | Метод SVM: вывод и применения | [Конспект](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Seminars/Seminar_8_SVM.pdf) |  ¯\\\_(ツ)\_/¯  |
-| 29 октября | Семинар 9 | Метрики качества классификации, ROC-AUC |  |  ¯\\\_(ツ)\_/¯  |
+| 29 октября | Семинар 9 | Метрики качества классификации, ROC-AUC |  | [Домашнее задание](https://github.com/mmp-mmro-team/mmp_mmro_fall_2026/blob/main/Homework4/hw_mmro_practice_3_svm_linreg.ipynb)  |
 | 5 ноября | Семинар 10 | Логическая парадигма машинного обучения. Решающее дерево. Вывод критериев информативности для деревьев. Реализация на практике. |  |  ¯\\\_(ツ)\_/¯ |
 | 12 ноября | Семинар 11 | Разложение ошибки на смещение и разброс |  |  ¯\\\_(ツ)\_/¯ |
 | 19 ноября | Семинар 12 | Вывод градиентного бустинга |   |  ¯\\\_(ツ)\_/¯ |
